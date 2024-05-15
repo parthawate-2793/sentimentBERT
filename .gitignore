@@ -1,0 +1,5 @@
+venv/
+**/.pycache/
+secret.java
+Reviews.csv
+Reviews_with_sentiment.csv
